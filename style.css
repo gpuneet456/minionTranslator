@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@500&display=swap');
+body {
+    font-family:'Kaisei Tokumin', serif;
+    margin:0px;
+    text-align: center
+}
+.navigation {
+    background-color:#FBBF24
+
+    ;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    
+}
+textarea{
+    width:80%;
+    height:10vh;
+    display:block;
+    margin:1rem;
+    padding:1rem;
+    margin-left: auto;
+margin-right: auto
+}
+#output{
+    border: 1px solid black;
+    width:80%;
+    height:10vh;
+    display:block;
+    /* margin:1rem; */
+    padding:1rem;
+    margin: auto;
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
+}
+.footer {
+    background-color:#FBBF24;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    color: white;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    
+}
+
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+button{
+    padding: 1rem 5rem ;
+    border-radius: 1rem;
+    background-color:#FBBF24;
+    color:white
+}
